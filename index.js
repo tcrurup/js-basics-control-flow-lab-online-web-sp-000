@@ -1,5 +1,7 @@
-function scuberGreetingForFeet(){
-  return 0;
+function scuberGreetingForFeet(feet){
+  if (feet <= 400){
+    return 0;
+  }
 }
 
 function ternaryCheckCity(){

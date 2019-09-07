@@ -1,5 +1,5 @@
 function scuberGreetingForFeet(){
-  
+  return 0;
 }
 
 function ternaryCheckCity(){
